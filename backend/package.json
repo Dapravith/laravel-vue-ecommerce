@@ -12,7 +12,7 @@
     "chart.js": "^3.9.1",
     "vue": "^3.2.25",
     "vue-chartjs": "^4.1.2",
-    "vue-router": "^4.0.13",
+    "vue-router": "^4.1.6",
     "vuex": "^4.0.2"
   },
   "devDependencies": {
